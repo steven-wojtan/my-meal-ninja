@@ -1,2 +1,2 @@
-# my-meal-ninja
+###My Meal Ninja
 Meal Planning Website
