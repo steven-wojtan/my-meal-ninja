@@ -1,3 +1,12 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Steven
+ * Date: 2019-02-06
+ * Time: 18:58
+ */
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +17,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Meal Ninja - Home</title>
+    <title>Meal Ninja - Contact</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
