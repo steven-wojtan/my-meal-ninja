@@ -36,19 +36,22 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="../home/index.php">Home
+                    <a class="nav-link" href="#">Home
                         <span class="sr-only">(current)</span>
                     </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Plan</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Tools</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Services</a>
+                    <a class="nav-link" href="./contact/index.php">Contact</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="../Contact/index.php">Contact</a>
-                </li>s
             </ul>
         </div>
     </div>
